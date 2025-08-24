@@ -1,6 +1,6 @@
 # Go API Starter
 
-This starter provides a clean, opinionated structure with essential middleware, helpers, and tooling to get new projects running quickly.
+This starter provides a clean, opinionated structure with essential helpers to read/write JSON, centralized error responses, rate limiting, CORS, panic recovery, graceful shutdown, and tooling to get new projects running quickly.
 
 ## 🚀 Getting Started
 
